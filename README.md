@@ -1,4 +1,10 @@
-# DECEPTOR
+# DECEPTOR: An automated script to bypass web-Cache Deception
+
+## NOTE: Still, this script has some issues, like inconsistent results. If you can fix it, feel free to create a PR
+
+<img src="wcd.png">
+
+---
 
 # 🕵️ Web Cache Deception (WCD) Rule Book
 
